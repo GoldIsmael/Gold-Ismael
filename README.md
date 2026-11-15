@@ -33,7 +33,4 @@ Em breve, você encontrará aqui projetos desenvolvidos durante meus estudos e m
 
 ## Meus objetivos são alcançar e trabalhar com oque e quem amo! 
 
----
-
-*"Cada projeto é uma oportunidade de aprender algo novo."*
 
